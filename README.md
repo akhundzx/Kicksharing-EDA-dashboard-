@@ -1,6 +1,6 @@
 # Kicksharing-EDA-dashboard-
-#сборка
-sudo apt update
+#сборка/n
+sudo apt updaten/n
 sudo apt install -y python3-venv python3-pip
 python3 -m venv ~/.venvs/streamlit
 source ~/.venvs/streamlit/bin/activate
